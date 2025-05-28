@@ -47,6 +47,8 @@ tide_nix_shell_bg_color normal
 tide_nix_shell_color brblue
 tide_node_bg_color normal
 tide_node_color green
+tide_openstack_bg_color normal
+tide_openstack_color red
 tide_os_bg_color normal
 tide_os_color brwhite
 tide_php_bg_color normal

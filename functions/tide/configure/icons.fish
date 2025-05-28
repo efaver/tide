@@ -18,6 +18,7 @@ tide_jobs_icon 
 tide_kubectl_icon 󱃾
 tide_nix_shell_icon 
 tide_node_icon  # Actual nodejs glyph is harder to see
+tide_openstack_icon  󰅣 # Actual openstack icon isn't visible in most nerd fonts
 tide_os_icon $os_branding_icon
 tide_php_icon 
 tide_private_mode_icon 󰗹
