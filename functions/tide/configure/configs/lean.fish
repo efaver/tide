@@ -61,6 +61,8 @@ tide_nix_shell_bg_color normal
 tide_nix_shell_color 7EBAE4
 tide_node_bg_color normal
 tide_node_color 44883E
+tide_openstack_bg_color normal
+tide_openstack_color ED1944
 tide_os_bg_color normal
 tide_os_color normal
 tide_php_bg_color normal
@@ -83,7 +85,7 @@ tide_pwd_markers .bzr .citc .git .hg .node-version .python-version .ruby-version
 tide_python_bg_color normal
 tide_python_color 00AFAF
 tide_right_prompt_frame_enabled false
-tide_right_prompt_items status cmd_duration context jobs direnv bun node python rustc java php pulumi ruby go gcloud kubectl distrobox toolbox terraform aws nix_shell crystal elixir zig
+tide_right_prompt_items status cmd_duration context jobs direnv bun node python rustc java php pulumi ruby go gcloud kubectl openstack distrobox toolbox terraform aws nix_shell crystal elixir zig
 tide_right_prompt_prefix ' '
 tide_right_prompt_separator_diff_color ' '
 tide_right_prompt_separator_same_color ' '
